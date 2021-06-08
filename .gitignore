@@ -1,0 +1,10 @@
+.vscode
+nm
+engagement/engagement/__pycache__
+engagement/fileuploader/__pycache__
+engagement/fileuploader/migrations
+.env
+venv
+env
+__pycache__
+db.sqlite3
